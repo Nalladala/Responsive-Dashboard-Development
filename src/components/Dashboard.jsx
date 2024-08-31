@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './dashboard.css';
 import Card from '../components/Card'; 
-import Reports from './Reports';
+import Reports from './Reports'
 
 
 function Dashboard() {
