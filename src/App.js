@@ -10,6 +10,9 @@ import './App.css';
 import Header from './components/Header';
 import SideBar from './components/SideBar';
 import Main from './components/Main';
+import MyPieChart from './components/MyPieChart';
+
+
 
 function App() {
   return (
@@ -17,6 +20,8 @@ function App() {
     <Header />
     <SideBar />
     <Main />
+ <MyPieChart/>
+ 
 
     </>
   );
